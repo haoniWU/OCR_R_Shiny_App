@@ -1,0 +1,12 @@
+name: appr_arn
+title:
+username: haoni-wu
+account: haoni-wu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12163365
+bundleId: 8752414
+url: https://haoni-wu.shinyapps.io/appr_arn/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
